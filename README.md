@@ -1,3 +1,3 @@
 # Acknowledgements
 
-Thank you Felipe Cordero for a great template!
+Thank you, Felipe Cordero, for a great template!
