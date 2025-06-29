@@ -1,2 +1,3 @@
-# iamgiddyaboutgit.github.io
-Justin Patterson's Personal Website
+# Acknowledgements
+
+Thank you Felipe Cordero for a great template!
