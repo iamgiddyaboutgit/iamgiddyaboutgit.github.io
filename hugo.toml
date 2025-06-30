@@ -1,3 +1,54 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+
+theme = "careercanvas"
+
+[params]
+  name = "Justin Patterson"
+  tagline = "Your Tagline"
+  location = "Your Location"
+  email = "your.email@example.com"
+  profile_image = "/images/your-profile.jpg"
+  description = "Your description"
+  author = "Your Name"
+
+  # Social Media
+  linkedin_url = "https://linkedin.com/in/yourprofile"
+  github_url = "https://github.com/yourusername"
+
+  # Resume/CV
+  resume_url_en = "/files/your-resume-en.pdf"  # Path to English resume
+  resume_url_fr = "/files/your-resume-fr.pdf"  # Path to French resume (optional)
+  resume_label = "Full Resume"
+
+  # Social Icons
+  [[params.social]]
+    icon = "linkedin-in"
+    url = "https://linkedin.com/in/yourprofile"
+
+  [[params.social]]
+    icon = "github"
+    url = "https://github.com/yourusername"
+
+[menu]
+
+  [[menu.main]]
+    name = "About"
+    url = "/#about"
+    weight = 2
+
+  [[menu.main]]
+    name = "Skills"
+    url = "/#skills"
+    weight = 3
+
+  [[menu.main]]
+    name = "Experience"
+    url = "/#experience"
+    weight = 4
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/#contact"
+    weight = 5
