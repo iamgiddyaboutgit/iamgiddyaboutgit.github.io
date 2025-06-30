@@ -8,6 +8,6 @@ pnpm was used to install some needed libraries for tailwindcss.
 I ran:
 
 ```
-pnpm install tailwindcss @tailwindcss/cli postcss @tailwindcss/postcss autoprefixer postcss-cli
-pnpm add -D tailwindcss @tailwindcss/cli postcss @tailwindcss/postcss autoprefixer postcss-cli
+pnpm install tailwindcss @tailwindcss/cli postcss @tailwindcss/postcss autoprefixer postcss-cli @tailwindcss/typography
+pnpm add -D tailwindcss @tailwindcss/cli postcss @tailwindcss/postcss autoprefixer postcss-cli @tailwindcss/typography
 ```
