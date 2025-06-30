@@ -1,3 +1,13 @@
 # Acknowledgements
 
-Thank you, Felipe Cordero, for a great template!
+Thank you, [Felipe Cordero](https://felipecordero.com/), for a great template!
+
+# Developer Notes
+
+pnpm was used to install some needed libraries for tailwindcss.
+I ran:
+
+```
+pnpm install tailwindcss @tailwindcss/cli postcss @tailwindcss/postcss autoprefixer postcss-cli @tailwindcss/typography
+pnpm add -D tailwindcss @tailwindcss/cli postcss @tailwindcss/postcss autoprefixer postcss-cli @tailwindcss/typography
+```
