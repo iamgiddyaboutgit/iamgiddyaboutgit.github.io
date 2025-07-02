@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333335 4.2333335"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <g
+       id="g5"
+       transform="matrix(0.03021934,0,0,0.03021619,-1.7199877,-1.5453886)">
+      <circle
+         style="fill:#2d2d2d;stroke:#5b5b5b;stroke-width:0.0176389"
+         id="path1"
+         cx="126.96025"
+         cy="120.95398"
+         r="70" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:141.111px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.618;stroke-dasharray:none;stroke-opacity:1"
+         x="84.916321"
+         y="170.89095"
+         id="text4"><tspan
+           id="tspan4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:141.111px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.618;stroke-dasharray:none;stroke-opacity:1"
+           x="84.916321"
+           y="170.89095">J</tspan></text>
+    </g>
+  </g>
+</svg>
